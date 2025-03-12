@@ -13,3 +13,4 @@ Attach the Script:
 Attach the above script to the Player GameObject.
 
 This script will allow you to move the player using WASD keys and look around with the mouse. The CharacterController component handles collisions and movements smoothly.
+FOR WASD SCRIPT
